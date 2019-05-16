@@ -1,3 +1,8 @@
+# Github File List 
+This is a react implementation of Github repository file list.
+
+![github file list](filelist.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
